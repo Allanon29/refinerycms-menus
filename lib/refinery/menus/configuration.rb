@@ -21,10 +21,6 @@ module Refinery
       refinery_resource: {
         klass: 'Refinery::Resource',
         title_attr: 'file_name'
-      },
-      refinery_event: {
-        klass: 'Refinery::Event',
-        title_attr: 'event_title'
       }
     }
    
