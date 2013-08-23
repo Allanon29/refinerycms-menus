@@ -23,7 +23,7 @@ module Refinery
         title_attr: 'file_name'
       },
       refinery_event: {
-        klass: 'Refinery::Events',
+        klass: 'Refinery::Event',
         title_attr: 'event_title'
       }
     }
